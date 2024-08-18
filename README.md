@@ -1,4 +1,4 @@
-# StockPrediction
+
 
 # 1. Finance using Reinforcement Learning
 Stock Prediction by Reinforcement Learning.
@@ -26,6 +26,9 @@ Jupyter Notebook for stock prediction.
 [Deep Q-Learning with Keras and Gym](https://keon.io/deep-q-learning/) - Q-learning overview and Agent skeleton code
 
 [Siraj Raval-School of AI](https://www.theschool.ai/courses/move-37-course/)
+
+ https://medium.com/ai%C2%B3-theory-practice-business/reinforcement-learning-part-1-a-brief-introduction-a53a849771cf
+https://blog.floydhub.com/an-introduction-to-q-learning-reinforcement-learning/ https://deepsense.ai/what-is-reinforcement-learning-the-complete-guide/ https://analyticsindiamag.com/reinforcement-learning-in-finance-a-newbie-in-portfolio-selection-and-allocation/
 
 
 
