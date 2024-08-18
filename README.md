@@ -1,6 +1,6 @@
 # StockPrediction
 
-# 1. Yahoo Finance using Reinforcement Learning
+# 1. Finance using Reinforcement Learning
 Stock Prediction by Reinforcement Learning.
 
 It's implementation of Q-learning applied to (short-term) stock trading. 
@@ -11,7 +11,7 @@ As a result of the short-term state representation, the model is not very good a
 
 - To train the model :   
 ```
-cd ReinforcementLearning-YahooFinance
+cd ReinforcementLearning-Finance
 mkdir models
 python train.py ^GSPC 10 1000`
 ```
